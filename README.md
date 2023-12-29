@@ -21,7 +21,7 @@ This program is written in Python 3
 
 -------------RUNNING THE SCRIPT--------------
 1. Open TournamentData.xlsx and input stack sizes in Column B and Payouts in Column D.
-2. Check # trials at the top of Column C, set it to an appropriate number (more players = lower # trials, to save compute time)
+2. Check # trials at the top of Column C, set it to an appropriate number (1m - 5m range, more trials is more accurate but takes more time)
 3. Save the file and close it.
 4. Open IDLE (search bar, type in IDLE). Ctrl + O for open and navigate to your folder to open ICM Calc.py
 5. Run the script (Run > Run Module or hit F5). Wait for the calculation to finish (can take up to 30 minutes for 500 players)
