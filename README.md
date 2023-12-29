@@ -6,7 +6,7 @@ You can run the program on up to 2000 players, but it will become computationall
 personal computer to run for any number of players over ~500. 
 This program is written in Python 3
 
-~*~*~*~*~*~*~*INSTALLATION~*~*~*~*~*~*~*
+--------------INSTALLATION-----------------
 1. Download and install Microsoft Excel
 2. Download and install Python 3 https://www.python.org/downloads/
    See this video for instructions https://www.youtube.com/watch?v=yivyNCtVVDk
@@ -16,7 +16,7 @@ This program is written in Python 3
 5. Click Run
 
 
-~*~*~*~*~*~*~*RUNNING THE SCRIPT~*~*~*~*~*~*~*
+-------------RUNNING THE SCRIPT--------------
 1. Open TournamentData.xlsx and input stack sizes in Column B and Payouts in Column D.
 2. Check # trials at the top of Column C, set it to an appropriate number (more players = lower # trials, to save compute time)
 3. Save the file and close it. 
