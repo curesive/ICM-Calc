@@ -28,7 +28,7 @@ This program is written in Python 3
 6. Open updatedTournamentData.xlsx to view results. ICM value should be populated in Column C
 
 
--------------------FILES-------------------
+-------------------FILES----------------------
 ICM Calc.py - Python script that runs the monte carlo sim
 TournamentData.xlsx - Excel file where you input stack sizes and payouts
 updatadedTournamentData.xlsx - Excel file that shows ICM value output
