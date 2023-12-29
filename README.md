@@ -29,9 +29,9 @@ This program is written in Python 3
 
 
 -------------------FILES----------------------
-ICM Calc.py - Python script that runs the monte carlo sim
-TournamentData.xlsx - Excel file where you input stack sizes and payouts
-updatadedTournamentData.xlsx - Excel file that shows ICM value output
+1. ICM Calc.py - Python script that runs the monte carlo sim
+2. TournamentData.xlsx - Excel file where you input stack sizes and payouts
+3. updatadedTournamentData.xlsx - Excel file that shows ICM value output
 
 
 
